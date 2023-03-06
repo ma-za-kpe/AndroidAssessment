@@ -1,6 +1,5 @@
 package com.maku.androidassesment.core.domain.capacity.request
 
-
 import com.google.gson.annotations.SerializedName
 
 data class Attributes(
