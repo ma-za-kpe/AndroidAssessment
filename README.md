@@ -31,4 +31,15 @@ Please follow these steps to set up AndroidAssessment on your local machine.
    - Capacity =>[https://documenter.getpostman.com/view/3729762/2s93JowR7C](Sample Api For Capacity)
    
 ## Important Design images
+1. Entity relationship diagram
+
 ![farmer-credit-system drawio](https://user-images.githubusercontent.com/28810111/223129269-7239d139-64f0-4862-bd1e-7d5a6516848f.svg)
+
+2. Flowchart diagram
+
+![farmer-credit-system-flow-chart drawio](https://user-images.githubusercontent.com/28810111/223134848-7d6d078f-ae67-4a03-9fb9-254d8240b0c9.svg)
+
+
+
+
+
