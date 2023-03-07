@@ -1,7 +1,27 @@
 ﻿# AndroidAssessment
 
-## Installation
+## Pick any 2 cards (That would have been implemented by a senior engineer) and implement them.
+- This question is from the android technical assessment, they show case what i have done in the 
+  repository.
+1. Domain Modelling.
+  I assume;
+  that we have already had a meeting with the stakeholders prior to this task.
+  We have a backend API and are using a tool like Postman to communicate with the backend. As attached here in the project README.
+  Metric,
+   - Creation of a formula or algorithm that a single user(farmer) will look like until they generate a credit score. This can be seen below.
+   - Conversation of JSON object to kotlin data classes.
+2. Planning.
+  I assume;
+  - The whole team has had several meetings and decided how and what tools to use(As seen above).
+  Metric,
+  - Create the first version of the project.
+  - Implement a naive dependency management system.
+  - Create documentation using the README.
+  - Set up continuous integration.
+  - Set up linting on both sides of the development. (Android side/GitHub actions).
+  - Create a git flow that other devs can branch off from.
 
+## Installation
 Please follow these steps to set up AndroidAssessment on your local machine.
 1. Create a new, empty folder called androidassessment/ within your home folder. 
 2. Navigate to it (cd androidassessment), then clone the AndroidAssessment repo. 
