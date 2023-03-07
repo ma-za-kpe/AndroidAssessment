@@ -47,8 +47,8 @@ Please follow these steps to set up AndroidAssessment on your local machine.
 
 ## Important Design Links
 1. Postman
-   - Farmers => [https://documenter.getpostman.com/view/3729762/2s93JowRBY](Sample Api For Farmer)
-   - Capacity =>[https://documenter.getpostman.com/view/3729762/2s93JowR7C](Sample Api For Capacity)
+   - Farmers => https://documenter.getpostman.com/view/3729762/2s93JowRBY 
+   - Capacity => https://documenter.getpostman.com/view/3729762/2s93JowR7C
    
 ## Important Design images
 1. Entity relationship diagram
