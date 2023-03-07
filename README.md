@@ -4,16 +4,16 @@
 - This question is from the android technical assessment, they show case what i have done in the 
   repository.
 1. Domain Modelling.
-  I assume;
+  > I assume;
   that we have already had a meeting with the stakeholders prior to this task.
   We have a backend API and are using a tool like Postman to communicate with the backend. As attached here in the project README.
-  Metric,
+  > Metric,
    - Creation of a formula or algorithm that a single user(farmer) will look like until they generate a credit score. This can be seen below.
    - Conversation of JSON object to kotlin data classes.
 2. Planning.
-  I assume;
+  > I assume;
   - The whole team has had several meetings and decided how and what tools to use(As seen above).
-  Metric,
+  > Metric,
   - Create the first version of the project.
   - Implement a naive dependency management system.
   - Create documentation using the README.
