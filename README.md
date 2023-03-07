@@ -6,7 +6,7 @@
 1. Domain Modelling.
   > I assume;
   - that we have already had a meeting with the stakeholders prior to this task.
-  We have a backend API and are using a tool like Postman to communicate with the backend. As attached here in the project README.
+  We have a backend API and are using a tool like Postman to manage API lifecycle and collaboration with the backend team . As attached here in the project README.
   > Metric,
    - Creation of a formula or algorithm that a single user(farmer) will look like until they generate a credit score. This can be seen below.
    - Conversation of JSON object to kotlin data classes.
