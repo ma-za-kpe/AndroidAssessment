@@ -11,8 +11,7 @@
    - Creation of a formula or algorithm that a single user(farmer) will look like until they generate a credit score. This can be seen below.
    - Conversation of JSON object to kotlin data classes.
 2. Planning.
-  > I assume;
-  - The whole team has had several meetings and decided how and what tools to use(As seen above).
+  > I assume; The whole team has had several meetings and decided how and what tools to use(As seen above).
   > Metric,
   - Create the first version of the project.
   - Implement a naive dependency management system.
