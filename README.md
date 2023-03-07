@@ -48,7 +48,11 @@ Please follow these steps to set up AndroidAssessment on your local machine.
 ## Important Design Links
 1. Postman
    - Farmers => https://documenter.getpostman.com/view/3729762/2s93JowRBY 
-   - Capacity => https://documenter.getpostman.com/view/3729762/2s93JowR7C
+   - Capacity => https://documenter.getpostman.com/view/3729762/2s93JowR7
+   
+ 2. Credit System
+   - [Pula Assessment - Maku Mazakpe.pdf](https://github.com/ma-za-kpe/AndroidAssessment/files/10913836/Pula.Assessment.-.Maku.Mazakpe.pdf)
+   - [Farmer Persona.pdf](https://github.com/ma-za-kpe/AndroidAssessment/files/10913839/Farmer.Persona.pdf)
    
 ## Important Design images
 1. Entity relationship diagram
