@@ -5,13 +5,14 @@
   repository.
 1. Domain Modelling.
   > I assume;
-  that we have already had a meeting with the stakeholders prior to this task.
+  - that we have already had a meeting with the stakeholders prior to this task.
   We have a backend API and are using a tool like Postman to communicate with the backend. As attached here in the project README.
   > Metric,
    - Creation of a formula or algorithm that a single user(farmer) will look like until they generate a credit score. This can be seen below.
    - Conversation of JSON object to kotlin data classes.
 2. Planning.
-  > I assume; The whole team has had several meetings and decided how and what tools to use(As seen above).
+  > I assume;
+  - The whole team has had several meetings and decided how and what tools to use(As seen above).
   > Metric,
   - Create the first version of the project.
   - Implement a naive dependency management system.
